@@ -10,6 +10,10 @@
 
 As a purpose-built **forza horizon 6  engine alternative**, the trainer skips manual address editing entirely. The **fh6 trainer aio** provides one-click activation through an ImGui overlay - press Insert to open the menu, then toggle s with function keys. It covers every major  category: **forza horizon 6 s money** workflows, **fh6 trainer wheelspins** manipulation, teleport to any waypoint, and instant race completion.
 
+Turn your Horizon Life into a curated soundscape. No subscriptions. No ads. Just you, the open road, and the soundtrack that matches every drift, sunset, and off-road jump.
+
+Welcome to Forza Horizon Spotify Radio – the ambient audio bridge that transforms your Spotify experience into a fully integrated Horizon Festival companion. This is not a mod. This is not a launcher. This is a third-party integration layer that reads your in-game telemetry (speed, zone, time of day, weather) and dynamically adjusts your Spotify playback to match the emotional arc of your drive.
+
 **All functions also work in online mode.**
 
 
